@@ -1,4 +1,4 @@
-# File: chaos.py
+# File: 1.6-chaos.py
 # A simple program illustrating chaotic behavior.
 
 def main():
